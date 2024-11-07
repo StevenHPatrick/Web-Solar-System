@@ -1,3 +1,15 @@
-This is a git repository created for the web Solar System. It was extracted from another repository in order to make it easier to view and to use.
+# Solar System Model
 
-Link to the other repository: https://github.com/StevenHPatrick/Graphics_Programming_Class
+Open the Solar System in you web browser. Watch all eight planets (sorry Pluto) orbit around our plasma ball.
+
+![Image of the Solar System model](Example1.png)
+
+![Image of the Solar System model](Example2.png)
+
+## How to run
+
+In order to view on a local machine, open the app.js file in a vscode editor and launch a live server add-on.
+
+## Bugs
+
+Some functionality is broken in Firefox: cannot zoom into the Solar System. 
